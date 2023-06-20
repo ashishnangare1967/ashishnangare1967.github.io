@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a337d260.css",
-    "main.js": "/static/js/main.67eafbc5.js",
+    "main.css": "/static/css/main.e8a41efd.css",
+    "main.js": "/static/js/main.dec463be.js",
+    "static/media/Screenshot 2023-06-15 152959.png": "/static/media/Screenshot 2023-06-15 152959.2e11f547ddb5c16c1e28.png",
+    "static/media/bookoz.png": "/static/media/bookoz.c92e66a94d7adf5f626d.png",
+    "static/media/fitnessFirst.png": "/static/media/fitnessFirst.c538963cd442bdee56ba.png",
     "static/media/bannerImg.png": "/static/media/bannerImg.09b38451718ff27b867f.png",
     "static/media/logo.png": "/static/media/logo.53a4383ed00e7d45fb34.png",
     "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
-    "static/media/projectThree.jpeg": "/static/media/projectThree.47442baa3158613330ab.jpeg",
     "static/media/contributions.png": "/static/media/contributions.977011de69be79f17bb4.png",
-    "static/media/projectTwo.jpg": "/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "index.html": "/index.html",
-    "main.a337d260.css.map": "/static/css/main.a337d260.css.map",
-    "main.67eafbc5.js.map": "/static/js/main.67eafbc5.js.map"
+    "main.e8a41efd.css.map": "/static/css/main.e8a41efd.css.map",
+    "main.dec463be.js.map": "/static/js/main.dec463be.js.map"
   },
   "entrypoints": [
-    "static/css/main.a337d260.css",
-    "static/js/main.67eafbc5.js"
+    "static/css/main.e8a41efd.css",
+    "static/js/main.dec463be.js"
   ]
 }
